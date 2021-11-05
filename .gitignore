@@ -31,3 +31,6 @@ yarn-error.log*
 # Test Coverage
 coverage/
 reports/
+
+# Variaveis de ambiente
+.env
